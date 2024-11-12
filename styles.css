@@ -1,0 +1,11 @@
+.cdAnimationLogo path{
+    animation-fill-mode: forwards;
+}
+
+#nameGroup{
+    fill: url(#gradient1)
+}
+
+.firstName{
+    stroke-dasharray: 20;
+}
